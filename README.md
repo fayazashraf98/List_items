@@ -1,16 +1,6 @@
-# todoey_provider
+# State Management-provider
 
-A new Flutter project.
+understand how to manage state in Flutter. We'll look at various Flutter architecture choices and learn to use the officially recommended Provider package to manage our app state.
 
-## Getting Started
+https://user-images.githubusercontent.com/97346744/182004214-cb4c1766-2738-4e2c-9fbf-2a9b35626365.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
